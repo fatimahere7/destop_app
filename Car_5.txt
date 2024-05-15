@@ -1,0 +1,10 @@
+available
+
+
+car Name mehran ; car model 2017LA ; color whilte 
+Specifications :
+
+55 kWh and 55 kWh
+Range			EPA: 140 mi 224 km	  EPA: 215 mi 341 km
+Max. power, motor			    382 hp 285 kW		381 hp 285 kW
+Max. power, battery			    236 hp 174 kW		300 hp 226 kW

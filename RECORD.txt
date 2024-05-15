@@ -1,0 +1,4 @@
+
+CUST_NAME | CUSTDRIVE | CUSTEXP | CNIC
+fatima | 123456 | 678 | 6
+fatima | 1234 | 23 | 4

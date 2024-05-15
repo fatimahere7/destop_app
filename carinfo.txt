@@ -1,0 +1,11 @@
+
+
+car1 = car Name hyundai ; car model 2016MD ; color red
+car2 = car Name BMW ; car model 2018as ; color black
+ car3 = car Name AUDI ; car model 2019sa ; color black
+car4 = car Name tesla ; car model 2020Aw ; color red
+car5 = car Name mehran ; car model 2017LA ; color whilte
+car6 = car Name tayoto ; car model 2021ea ; color silver
+car7 = car Name Ford ; car model 2018sw ; color black
+car0 = if the car is new you added recently
+ 
